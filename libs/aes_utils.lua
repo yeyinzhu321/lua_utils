@@ -7,8 +7,8 @@
 --
 local aes = require "resty.aes"
 local md5 = require 'md5'
-local MBkey = 'f6b0d3f905bf02939b4f6d29f257c2ab'
-local MBiv = '1a42eb4565be8628a807403d67dce78d'
+local MBkey = ''
+local MBiv = ''
 
 --[[
 -- URL encode 转换
